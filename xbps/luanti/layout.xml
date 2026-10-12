@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay version="1" id="6de64d31" name="Luanti" opacity="0.4000">
+<joystick id="8584cf94" label="" x="0.1423" y="0.6567" width="140" height="140" multi="true" rotation="0">
+<direction key="w"/>
+<direction key="d"/>
+<direction key="s"/>
+<direction key="a"/>
+</joystick>
+<button id="c37a31f5" label="ESC" x="0.0000" y="0.0000" width="43" height="42">
+<keys>
+<key name="esc"/>
+</keys>
+</button>
+<button id="fa62500f" label="Jump" x="0.8862" y="0.5042" width="64" height="64">
+<keys>
+<key name="space"/>
+</keys>
+</button>
+<button id="6c25e634" label="Sneak" x="0.7761" y="0.6766" width="64" height="64">
+<keys>
+<key name="leftshift"/>
+</keys>
+</button>
+<button id="fae210ec" label="Break" x="0.8899" y="0.3345" width="64" height="64">
+<mouse button="left"/>
+</button>
+<button id="adbf3fd5" label="Place" x="0.8067" y="0.5048" width="64" height="64">
+<mouse button="right"/>
+</button>
+<joystick id="9bf79558" label="" x="0.8455" y="0.9129" width="53" height="53" multi="false" rotation="0">
+<direction wheel="up"/>
+<direction wheel="down"/>
+</joystick>
+<button id="9ce86d7c" label="KB" x="0.0000" y="0.1704" width="42" height="42">
+<keyboard/>
+</button>
+<button id="533ab9aa" label="Chat" x="0.0000" y="0.2849" width="42" height="42">
+<keys>
+<key name="t"/>
+</keys>
+</button>
+<button id="f708a15c" label="Fly" x="0.8916" y="0.0520" width="42" height="42">
+<keys>
+<key name="k"/>
+</keys>
+</button>
+<button id="8ee18076" label="Inv" x="1.0000" y="0.0010" width="42" height="42">
+<keys>
+<key name="i"/>
+</keys>
+</button>
+<button id="49fa74f8" label="Speed" x="0.8375" y="0.0400" width="42" height="42">
+<keys>
+<key name="j"/>
+</keys>
+</button>
+<button id="8b10dcf6" label="Aux1" x="0.8589" y="0.6765" width="64" height="64">
+<keys>
+<key name="e"/>
+</keys>
+</button>
+</overlay>

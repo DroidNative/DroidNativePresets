@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay version="1" id="6fa99c76" name="OpenTyrian" opacity="0.4000">
+<joystick id="3c35fbea" label="" x="0.1385" y="0.5609" width="140" height="140" multi="true" rotation="0">
+<direction key="up"/>
+<direction key="right"/>
+<direction key="down"/>
+<direction key="left"/>
+</joystick>
+<button id="b833fdb2" label="Fire" x="0.8822" y="0.4905" width="64" height="64">
+<keys>
+<key name="space"/>
+</keys>
+</button>
+<button id="cc0e53c8" label="ChFire" x="0.9432" y="0.2138" width="64" height="64">
+<keys>
+<key name="enter"/>
+</keys>
+</button>
+<button id="46732c49" label="LSide" x="0.8336" y="0.6800" width="64" height="64">
+<keys>
+<key name="leftctrl"/>
+</keys>
+</button>
+<button id="2dc7b270" label="RSide" x="0.9310" y="0.6772" width="64" height="64">
+<keys>
+<key name="leftalt"/>
+</keys>
+</button>
+<button id="ffb19dcb" label="ESC" x="0.0003" y="0.0000" width="64" height="64">
+<keys>
+<key name="esc"/>
+</keys>
+</button>
+</overlay>
